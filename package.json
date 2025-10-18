@@ -1,0 +1,14 @@
+{
+  "name": "vetalancraft-bot",
+  "version": "1.0.0",
+  "description": "Bot AFK para Minecraft Bedrock 1.21.113.1 en Aternos",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bedrock-protocol": "^3.43.0"
+  }
+}
